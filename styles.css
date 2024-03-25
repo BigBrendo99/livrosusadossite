@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #090909; /* Cor base: preto */
+    color: #FFFFFF; /* Cor do texto: branco */
+}
+
+header {
+    background-color: #1F1F1F; /* Cor do cabeçalho: cinza escuro */
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    color: #FFD700; /* Cor do título: dourado */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #FFFFFF; /* Cor dos links: branco */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #1F1F1F; /* Cor do rodapé: cinza escuro */
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    color: #FFFFFF; /* Cor do texto do rodapé: branco */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #004165; /* Cor do botão: azul escuro */
+    color: #FFFFFF; /* Cor do texto do botão: branco */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button a {
+    color: #FFFFFF; /* Cor do texto do botão: branco */
+    text-decoration: none;
+}
